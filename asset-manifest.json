@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactForVisitors/static/css/main.8b7abe6b.css",
+    "main.js": "/ReactForVisitors/static/js/main.06552d92.js",
+    "static/js/787.d2ba2272.chunk.js": "/ReactForVisitors/static/js/787.d2ba2272.chunk.js",
+    "index.html": "/ReactForVisitors/index.html",
+    "main.8b7abe6b.css.map": "/ReactForVisitors/static/css/main.8b7abe6b.css.map",
+    "main.06552d92.js.map": "/ReactForVisitors/static/js/main.06552d92.js.map",
+    "787.d2ba2272.chunk.js.map": "/ReactForVisitors/static/js/787.d2ba2272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7abe6b.css",
+    "static/js/main.06552d92.js"
+  ]
+}
